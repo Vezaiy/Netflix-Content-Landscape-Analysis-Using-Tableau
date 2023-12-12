@@ -4,8 +4,6 @@
 
 An extensive study of Netflix titles is given by this Tableau dashboard, which includes information on the overall number of films and television series, their distribution across nations, ratings, genres, and release dates. Users may discover trends and patterns in the Netflix content collection and have a thorough grasp of it by visualizing this data.
 
-Tableau Public Link::- https://public.tableau.com/views/NetflixProject_16890998539660/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-
 ![image](https://github.com/ymulakala27/Netflix-Titles-Project/assets/128730384/72f1a512-6fdd-4574-bbeb-dc665531b12c)
 
 **Dashboard Elements**
